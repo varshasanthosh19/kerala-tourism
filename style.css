@@ -1,0 +1,41 @@
+.kerala{
+    font-size: medium;
+    color: white;
+}
+
+.tvm
+{
+    background-image: url(images/tvm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.tem
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    scroll-behavior: smooth;
+}
+p{
+    margin-top: 5%;
+}
+.center {
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .tvm1
+{
+    background-image: url(images/kannur.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
